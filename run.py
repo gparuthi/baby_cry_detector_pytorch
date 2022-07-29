@@ -56,6 +56,4 @@ def run_detection_and_notify(resnet_model, indtocat: Dict[int, str]):
 
 
 if __name__ == "__main__":
-    telegram_client.send_audio("temp.mp3")
-
     start()
