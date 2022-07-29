@@ -1,0 +1,11 @@
+__pycache__
+*.ckpt
+*.wav
+*.mp3
+ 
+train/ESC-50-master
+train/lightning_logs
+
+ind_to_cat.json
+model
+.DS_Store
